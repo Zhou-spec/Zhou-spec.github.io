@@ -23,7 +23,7 @@ Work experience
 * Summer 2019: Research Assistant
   * The University of Michigan, Ann Arbor
   * Computing local cohomology of a special $L_\lambda$ module
-  * [Paper link:]("https://lsa.umich.edu/content/dam/math-assets/math-document/reu-documents/ugradreu/2019/Fang,Zhou.pdf")
+  * [REU paper](https://Zhou-spec.github.io/files/REU_paper.pdf)
   
 Skills
 ======
