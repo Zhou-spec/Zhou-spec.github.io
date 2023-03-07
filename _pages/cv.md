@@ -23,7 +23,7 @@ Work experience
 * Summer 2019: Research Assistant
   * The University of Michigan, Ann Arbor
   * Computing local cohomology of a special $L_\lambda$ module
-  * [REU paper](https://Zhou-spec.github.io/files/REU_paper.pdf)
+  * [REU paper](https://Zhou-spec.github.io/files/REU%20paper.pdf)
   
 Skills
 ======
