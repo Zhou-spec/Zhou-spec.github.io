@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,16 +23,16 @@ Work experience
 * Summer 2019: Research Assistant
   * The University of Michigan, Ann Arbor
   * Computing local cohomology of a special $L_\lambda$ module
-  * Paper link: ("https://lsa.umich.edu/content/dam/math-assets/math-document/reu-documents/ugradreu/2019/Fang,Zhou.pdf")
+  * [Paper link:]("https://lsa.umich.edu/content/dam/math-assets/math-document/reu-documents/ugradreu/2019/Fang,Zhou.pdf")
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python: familiar with pytorch, pandas, sklearn, numpy, and matplotlib
+* Statistics
+  * Non-parametric Statistics
+  * Bayesian Statistics
+  * Mathematical Statistics
+* Stochastic Control
 
 Publications
 ======
@@ -40,18 +40,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
