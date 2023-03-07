@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics, the University of Texas at Austin, 2025 (expected)
+* B.S. in Mathematics, the University of Michigan, Ann Arbor, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - present: Teaching Assistant
+  * The University of Texas at Austin
+  * Courses teached: calculus, linear algebra, differential equation, and probability
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Assistant
+  * The University of Michigan, Ann Arbor
+  * Computing local cohomology of a special $L_\lambda$ module
+  * Paper link: ("https://lsa.umich.edu/content/dam/math-assets/math-document/reu-documents/ugradreu/2019/Fang,Zhou.pdf")
   
 Skills
 ======
