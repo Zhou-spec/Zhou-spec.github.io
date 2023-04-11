@@ -14,7 +14,7 @@ Quantitative Finance
 
 Course Projects & Presentations
 ======
-<a style="text-decoration: none;">High Frequency Volatility Estimation</a>, 2023<br /> Zhou Fang, and Nate Hattersley <br /> <a href="https://github.com/Zhou-spec/Zhou-spec.github.io/files/Nonparametric_Method_for_Volatility_Estimation.pdf"> Slides Link </a>
+<a style="text-decoration: none;">High Frequency Volatility Estimation</a>, 2023<br /> Zhou Fang, and Nate Hattersley <br /> <a href="https://Zhou-spec.github.io/files/Nonparametric_Method_for_Volatility_Estimation.pdf"> Slides Link </a>
 
 <a style="text-decoration: none;">Adversarial Defense Using Deep Image Priors for Deep Image Models</a>, 2021<br /> Zhou Fang, Daniel Almeraz, and Shivang Singh<br /> <a href="https://Zhou-spec.github.io/files/DiPDefense-Framework.pdf"> Paper Link </a> 
 
