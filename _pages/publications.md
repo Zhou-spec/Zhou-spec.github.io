@@ -7,9 +7,9 @@ author_profile: true
 
 Quantitative Finance
 ======
-<a style="text-decoration: none;">Market Making via Reinforcement Learning of Options with Multi-strikes and Multi-Maturities</a>, 2023.<br />Zhou Fang.<br /> <a href="https://Zhou-spec.github.io/files/Multi_Strikes_Multi_Maturities_Market_Making_for_Options_via_Reinforcement_Learning (6).pdf">Working Paper</a>
+<a style="text-decoration: none;">Market Making via Reinforcement Learning of Options with Multi-strikes and Multi-Maturities</a>, 2023.<br />Zhou Fang.<br /> <a href="https://Zhou-spec.github.io/files/Market_Making_of_Options_via_Reinforcement_Learning.pdf">Working Paper</a>
 
-<a style="text-decoration: none;">OTC Market Making via Reinforcement Learning</a>, 2023.<br />Zhou Fang.<br /> <a href="https://Zhou-spec.github.io/files/OTC_market_making_via_Reinforcement_Learning (3).pdf">Working Paper</a>
+<a style="text-decoration: none;">OTC Market Making via Reinforcement Learning</a>, 2023.<br />Zhou Fang.<br /> <a href="https://Zhou-spec.github.io/files/OTC_market_making_via_Reinforcement_Learning (4).pdf">Working Paper</a>
 
 <a style="text-decoration: none;">Continuous-Time Path-Dependent Exploratory Mean-Variance Portfolio Construction</a>, 2023.<br />Zhou Fang.<br /> <a href="https://arxiv.org/abs/2303.02298">https://arxiv.org/abs/2303.02298</a>
 
