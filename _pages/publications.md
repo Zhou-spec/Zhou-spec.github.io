@@ -7,9 +7,9 @@ author_profile: true
 
 Quantitative Finance
 ======
-<a style="text-decoration: none;">Market Making of Options via Reinforcement Learnings</a>, 2023.<br />Zhou Fang, and Haiqing Xu.<br /> <a href="https://arxiv.org/abs/2307.01814"></a>
+<a style="text-decoration: none;">Market Making of Options via Reinforcement Learnings</a>, 2023.<br />Zhou Fang, and Haiqing Xu.<br /> <a href="https://arxiv.org/abs/2307.01814">https://arxiv.org/abs/2307.01814</a>
 
-<a style="text-decoration: none;">Over-the-Counter Market Making via Reinforcement Learning</a>, 2023.<br />Zhou Fang, and Haiqing Xu.<br /> <a href="https://arxiv.org/abs/2307.01816"></a>
+<a style="text-decoration: none;">Over-the-Counter Market Making via Reinforcement Learning</a>, 2023.<br />Zhou Fang, and Haiqing Xu.<br /> <a href="https://arxiv.org/abs/2307.01816">https://arxiv.org/abs/2307.01816</a>
 
 <a style="text-decoration: none;">Continuous-Time Path-Dependent Exploratory Mean-Variance Portfolio Construction</a>, 2023.<br />Zhou Fang.<br /> <a href="https://arxiv.org/abs/2303.02298">https://arxiv.org/abs/2303.02298</a>
 
